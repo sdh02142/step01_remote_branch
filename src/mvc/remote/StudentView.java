@@ -1,5 +1,8 @@
 package mvc.remote;
 
 public class StudentView {
+	private String className;
+	private int classNo;
+	
 	public void shout() {}
 }
