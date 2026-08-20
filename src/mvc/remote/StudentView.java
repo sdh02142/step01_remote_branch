@@ -5,4 +5,5 @@ public class StudentView {
 	private int classNo;
 	
 	public void shout() {}
+	public void shout3() {}
 }
