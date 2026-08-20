@@ -6,4 +6,5 @@ public class StudentView {
 	
 	public void shout() {}
 	public void shout2() {}
+	public void shout3() {}
 }
